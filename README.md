@@ -1,25 +1,47 @@
+````markdown
 <div align="center">
 
-👋 Hi, I'm DIPESH KUMAR YADAV
-💻 Software Developer | Full Stack Developer | Cloud & DevOps Enthusiast
+# 👋 Hi, I'm **DIPESH KUMAR YADAV**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Developer;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;AWS+%26+DevOps+Enthusiast;DSA+%26+Problem+Solving;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+### 💻 Software Developer | Full Stack Developer | Backend Developer
 
-<p> <img src="https://komarev.com/ghpvc/?username=dipeshkumar799&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Developer;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;AWS+Cloud+Enthusiast;DSA+%26+Problem+Solving;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p> <a href="https://github.com/dipeshkumar799"> <img src="https://img.shields.io/github/followers/dipeshkumar799?label=Followers&style=for-the-badge&logo=github" /> </a> <a href="https://github.com/dipeshkumar799?tab=repositories"> <img src="https://img.shields.io/github/stars/dipeshkumar799?label=Stars&style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+<p>
+<img src="https://komarev.com/ghpvc/?username=dipeshkumar799&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p>
+<a href="https://github.com/dipeshkumar799">
+<img src="https://img.shields.io/github/followers/dipeshkumar799?label=Followers&style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/dipeshkumar799?tab=repositories">
+<img src="https://img.shields.io/github/stars/dipeshkumar799?label=Stars&style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
 </div>
 
-👨‍💻 About Me
-🎓 B.Tech Computer Science & Engineering
-💻 Passionate about Full Stack & Backend Development
-☁️ Currently learning AWS & DevOps
-🧠 Practicing Data Structures & Algorithms with Java
-🚀 Building real-world software projects
-🤝 Open to collaborations, hackathons and opportunities
-🌱 Always learning and improving
-🚀 Current Focus
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science & Engineering
+- 💻 Passionate about Full Stack & Backend Development
+- ☁️ Currently learning **AWS Cloud**
+- 🧠 Practicing **Data Structures & Algorithms with Java**
+- 🚀 Building real-world software projects
+- 🤝 Open to collaborations, hackathons and opportunities
+- 🌱 Always learning and improving my development skills
+
+---
+
+## 🚀 Current Focus
+
+```text
 🔥 Full Stack Development
 ☕ Java & Data Structures
 ⚛️ React.js
@@ -27,83 +49,120 @@
 🍃 MongoDB
 🐬 MySQL
 ☁️ AWS Cloud
-🐳 Docker
-⚙️ DevOps & CI/CD
 🔧 Git & GitHub
-🏆 Certifications & Achievements
+🔌 REST APIs
+````
+
+---
+
+# 🏆 Certifications & Achievements
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/1eff50d7-15fa-4494-a8cc-81f72325c662"> <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /> </a>
+<a href="https://www.credly.com/badges/1eff50d7-15fa-4494-a8cc-81f72325c662">
+<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</a>
 
-<a href="https://credsverse.com/credentials/1131fd0f-87d6-4889-ac8e-61c0f8123383"> <img src="https://img.shields.io/badge/Metadome-Emerging%20Tech%20Hackathon-orange?style=for-the-badge" /> </a>
+<a href="https://credsverse.com/credentials/1131fd0f-87d6-4889-ac8e-61c0f8123383">
+<img src="https://img.shields.io/badge/Metadome-Emerging%20Tech%20Hackathon-orange?style=for-the-badge" />
+</a>
 
-<a href="https://badges.parchment.com/public/assertions/HhAX5J4fT1y3MheFZQxr7Q"> <img src="https://img.shields.io/badge/Verified-Digital%20Credential-success?style=for-the-badge" /> </a>
+<a href="https://badges.parchment.com/public/assertions/HhAX5J4fT1y3MheFZQxr7Q">
+<img src="https://img.shields.io/badge/Verified-Digital%20Credential-success?style=for-the-badge" />
+</a>
 
 </div>
 
-🛠️ Tech Stack
-💻 Programming Languages
+---
 
-<p> <img src="https://skillicons.dev/icons?i=java,javascript,python,c,typescript" /> </p>
+# 🛠️ Tech Stack
 
-🌐 Frontend
+### 💻 Programming Languages
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap" /> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c,typescript" />
+</p>
 
-⚙️ Backend
+### 🌐 Frontend
 
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" /> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap" />
+</p>
 
-🗄️ Databases
+### ⚙️ Backend
 
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
 
-☁️ Cloud & DevOps
+### 🗄️ Databases
 
-<p> <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" /> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
-🔧 Tools
+### ☁️ Cloud
 
-<p> <img src="https://skillicons.dev/icons?i=postman,firebase,figma,vscode,npm" /> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
-💼 What I Can Build
-Area	Technologies
-🌐 Frontend	React, JavaScript, HTML, CSS, Tailwind
-⚙️ Backend	Node.js, Express.js, GraphQL
-🗄️ Database	MongoDB, MySQL, PostgreSQL
-☁️ Cloud	AWS
-🚀 DevOps	Git, Linux, Docker, CI/CD
-☕ Programming	Java, JavaScript, Python
-🔌 APIs	REST API, GraphQL, Postman
-📌 Featured Projects
-🛒 E-Commerce Application
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,figma,vscode,npm" />
+</p>
+
+---
+
+# 💼 What I Can Build
+
+| Area          | Technologies                           |
+| ------------- | -------------------------------------- |
+| 🌐 Frontend   | React, JavaScript, HTML, CSS, Tailwind |
+| ⚙️ Backend    | Node.js, Express.js, GraphQL           |
+| 🗄️ Database  | MongoDB, MySQL, PostgreSQL             |
+| ☁️ Cloud      | AWS                                    |
+| ☕ Programming | Java, JavaScript, Python               |
+| 🔌 APIs       | REST API, GraphQL, Postman             |
+
+---
+
+# 📌 Featured Projects
+
+### 🛒 E-Commerce Application
 
 Full-stack e-commerce application with authentication, product management, APIs and database integration.
 
-Tech: React • Node.js • Express.js • MongoDB
+**Tech:** React • Node.js • Express.js • MongoDB
 
-📰 News Application
+### 📰 News Application
 
 Dynamic news application consuming APIs and displaying news by category.
 
-Tech: React • JavaScript • REST API
+**Tech:** React • JavaScript • REST API
 
-🌦️ Weather Application
+### 🌦️ Weather Application
 
 Weather application retrieving real-time weather information through an external API.
 
-Tech: React • JavaScript • Weather API
+**Tech:** React • JavaScript • Weather API
 
-🔐 Backend & Authentication
-JWT Authentication
-Access & Refresh Tokens
-MongoDB & Mongoose
-Cloudinary
-Multer
-REST APIs
-Postman
-📚 Currently Learning
+### 🔐 Backend & Authentication
+
+* JWT Authentication
+* Access & Refresh Tokens
+* MongoDB & Mongoose
+* Cloudinary
+* Multer
+* REST APIs
+* Postman
+
+---
+
+# 📚 Currently Learning
+
+```text
 Java
  ├── OOP
  ├── Arrays
@@ -118,46 +177,34 @@ Backend
  ├── GraphQL
  └── Authentication
 
-Cloud & DevOps
- ├── AWS
- ├── Linux
- ├── Git
- ├── Docker
- ├── CI/CD
- └── Kubernetes
-🎯 2026 Goals
+Cloud
+ └── AWS
+     ├── Cloud Fundamentals
+     ├── AWS Services
+     └── Cloud Architecture Basics
+```
 
-Learn Java fundamentals
+---
 
-Practice Arrays & Linear Search
+# 🎯 2026 Goals
 
-Learn React
+* [x] Learn Java fundamentals
+* [x] Practice Arrays & Linear Search
+* [x] Learn React
+* [x] Learn Node.js & Express.js
+* [x] Learn MongoDB
+* [x] Learn REST APIs
+* [x] Earn AWS Cloud Foundations Badge
+* [ ] Master Data Structures & Algorithms
+* [ ] Build production-ready full-stack applications
+* [ ] Build AWS Cloud Projects
+* [ ] Contribute to Open Source
+* [ ] Participate in GSoC
+* [ ] Get a Software Development Internship
 
-Learn Node.js & Express.js
+---
 
-Learn MongoDB
-
-Learn REST APIs
-
-Earn AWS Cloud Foundations Badge
-
-Master Data Structures & Algorithms
-
-Build production-ready full-stack applications
-
-Learn Docker
-
-Learn CI/CD
-
-Build AWS Cloud Projects
-
-Contribute to Open Source
-
-Participate in GSoC
-
-Get a Software Development Internship
-
-📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -167,7 +214,9 @@ Get a Software Development Internship
 
 </div>
 
-🔥 GitHub Streak
+---
+
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -175,7 +224,9 @@ Get a Software Development Internship
 
 </div>
 
-🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -183,7 +234,9 @@ Get a Software Development Internship
 
 </div>
 
-📈 Contribution Activity
+---
+
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -191,7 +244,9 @@ Get a Software Development Internship
 
 </div>
 
-🐍 Contribution Snake
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -199,26 +254,41 @@ Get a Software Development Internship
 
 </div>
 
-🤝 Let's Connect
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/"> <img src="https://img.shields.io/badge/LinkedIn-Dipesh%20Kumar%20Yadav-blue?style=for-the-badge&logo=linkedin" /> </a>
+<a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/">
+<img src="https://img.shields.io/badge/LinkedIn-Dipesh%20Kumar%20Yadav-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-<a href="https://x.com/dipeshyv"> <img src="https://img.shields.io/badge/X-@dipeshyv-black?style=for-the-badge&logo=x" /> </a>
+<a href="https://x.com/dipeshyv">
+<img src="https://img.shields.io/badge/X-@dipeshyv-black?style=for-the-badge&logo=x" />
+</a>
 
-<a href="mailto:yadavdipesh0011@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /> </a>
+<a href="mailto:yadavdipesh0011@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
-<a href="https://www.youtube.com/@dipeshyadav1730"> <img src="https://img.shields.io/badge/YouTube-Dipesh%20Yadav-red?style=for-the-badge&logo=youtube" /> </a>
+<a href="https://www.youtube.com/@dipeshyadav1730">
+<img src="https://img.shields.io/badge/YouTube-Dipesh%20Yadav-red?style=for-the-badge&logo=youtube" />
+</a>
 
-<a href="https://www.instagram.com/yv.799/"> <img src="https://img.shields.io/badge/Instagram-@yv.799-purple?style=for-the-badge&logo=instagram" /> </a>
+<a href="https://www.instagram.com/yv.799/">
+<img src="https://img.shields.io/badge/Instagram-@yv.799-purple?style=for-the-badge&logo=instagram" />
+</a>
 
 </div>
 
+---
+
 <div align="center">
 
-💡 Code • Learn • Build • Repeat 🚀
+### 💡 **Code • Learn • Build • Repeat 🚀**
 
 ⭐ If you like my work, consider giving my repositories a star!
 
 </div>
+```
