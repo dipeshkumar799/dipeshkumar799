@@ -1,48 +1,35 @@
 <div align="center">
 
-# 👋 Hi, I'm **DIPESH KUMAR YADAV**
+<h1>👋 Hi, I'm DIPESH KUMAR YADAV</h1>
 
-### 💻 Software Developer | Full Stack Developer | Backend Developer
+<h3>💻 Software Developer | Full Stack Developer | Backend Developer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Developer;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;AWS+Cloud+Enthusiast;DSA+%26+Problem+Solving;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p>
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=dipeshkumar799&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
 
-<p>
-<a href="https://github.com/dipeshkumar799">
-<img src="https://img.shields.io/github/followers/dipeshkumar799?label=Followers&style=for-the-badge&logo=github" />
-</a>
+<br><br>
 
-<a href="https://github.com/dipeshkumar799?tab=repositories">
-<img src="https://img.shields.io/github/stars/dipeshkumar799?label=Stars&style=for-the-badge&logo=github" />
-</a>
+<a href="https://github.com/dipeshkumar799"> <img src="https://img.shields.io/github/followers/dipeshkumar799?label=Followers&style=for-the-badge&logo=github" /> </a>
 
-<a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-</p>
+<a href="https://github.com/dipeshkumar799?tab=repositories"> <img src="https://img.shields.io/github/stars/dipeshkumar799?label=Stars&style=for-the-badge&logo=github" /> </a>
+
+<a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a>
 
 </div>
 
----
+👨‍💻 About Me
+🎓 B.Tech Computer Science & Engineering
+💻 Passionate about Full Stack & Backend Development
+☁️ Currently learning AWS Cloud
+🧠 Practicing Data Structures & Algorithms with Java
+🚀 Building real-world software projects
+🤝 Open to collaborations, hackathons and opportunities
+🌱 Always learning and improving my development skills
+🚀 Current Focus
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Computer Science & Engineering
-- 💻 Passionate about Full Stack & Backend Development
-- ☁️ Currently learning **AWS Cloud**
-- 🧠 Practicing **Data Structures & Algorithms with Java**
-- 🚀 Building real-world software projects
-- 🤝 Open to collaborations, hackathons and opportunities
-- 🌱 Always learning and improving my development skills
-
----
-
-## 🚀 Current Focus
-
-```text
 🔥 Full Stack Development
 ☕ Java & Data Structures
 ⚛️ React.js
@@ -52,6 +39,7 @@
 ☁️ AWS Cloud
 🔧 Git & GitHub
 🔌 REST APIs
+
 🏆 Certifications & Achievements
 
 <div align="center">
@@ -95,9 +83,9 @@ Certificate of Participation
 
 <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /> </p>
 
-☁️ Cloud
+☁️ Cloud & DevOps
 
-<p> <img src="https://skillicons.dev/icons?i=aws" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,linux" /> </p>
 
 🔧 Tools
 
@@ -109,6 +97,7 @@ Area	Technologies
 ⚙️ Backend	Node.js, Express.js, GraphQL
 🗄️ Database	MongoDB, MySQL, PostgreSQL
 ☁️ Cloud	AWS
+🐳 DevOps	Docker, Linux, Git
 ☕ Programming	Java, JavaScript, Python
 🔌 APIs	REST API, GraphQL, Postman
 📌 Featured Projects
@@ -131,33 +120,35 @@ Weather application retrieving real-time weather information through an external
 Tech: React • JavaScript • Weather API
 
 🔐 Backend & Authentication
-JWT Authentication
-Access & Refresh Tokens
-MongoDB & Mongoose
-Cloudinary
-Multer
-REST APIs
-Postman
+🔑 JWT Authentication
+🔄 Access & Refresh Tokens
+🍃 MongoDB & Mongoose
+☁️ Cloudinary
+📁 Multer
+🔌 REST APIs
+🚀 Postman
 📚 Currently Learning
-Java
- ├── OOP
- ├── Arrays
- ├── Searching
- ├── Sorting
- └── Data Structures & Algorithms
-
-Backend
- ├── Node.js
- ├── Express.js
- ├── REST APIs
- ├── GraphQL
- └── Authentication
-
-Cloud
- └── AWS
-     ├── Cloud Fundamentals
-     ├── AWS Services
-     └── Cloud Architecture Basics
+☕ Java & DSA
+Object-Oriented Programming
+Arrays
+Linear Search
+Binary Search
+Sorting
+Data Structures
+Problem Solving
+⚙️ Backend
+Node.js
+Express.js
+REST APIs
+GraphQL
+Authentication
+MongoDB
+☁️ AWS
+Cloud Fundamentals
+AWS Services
+Cloud Architecture Basics
+Deployment
+DevOps Fundamentals
 🎯 2026 Goals
 
 Learn Java fundamentals
@@ -176,9 +167,15 @@ Earn AWS Cloud Foundations Badge
 
 Master Data Structures & Algorithms
 
+Master Binary Search
+
 Build production-ready full-stack applications
 
 Build AWS Cloud Projects
+
+Learn Docker
+
+Learn CI/CD
 
 Contribute to Open Source
 
@@ -250,4 +247,4 @@ Get a Software Development Internship
 
 ⭐ If you like my work, consider giving my repositories a star!
 
-</div> ```
+</div>
