@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/profile-readme-generator/main/src/images/banner.png" width="100%" alt="Developer Banner">
-
-<br><br>
-
 <h1>👋 Hi, I'm DIPESH KUMAR YADAV</h1>
 
 <h3>💻 Software Developer | Full Stack Developer | Backend Developer</h3>
@@ -43,6 +39,7 @@
 ☁️ AWS Cloud
 🔧 Git & GitHub
 🔌 REST APIs
+
 🏆 Certifications & Achievements
 
 <div align="center">
@@ -95,14 +92,14 @@ Certificate of Participation
 <p> <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,figma,vscode,npm" /> </p>
 
 💼 What I Can Build
-Area Technologies
-🌐 Frontend React, JavaScript, HTML, CSS, Tailwind
-⚙️ Backend Node.js, Express.js, GraphQL
-🗄️ Database MongoDB, MySQL, PostgreSQL
-☁️ Cloud AWS
-🐳 DevOps Docker, Linux, Git
-☕ Programming Java, JavaScript, Python
-🔌 APIs REST API, GraphQL, Postman
+Area	Technologies
+🌐 Frontend	React, JavaScript, HTML, CSS, Tailwind
+⚙️ Backend	Node.js, Express.js, GraphQL
+🗄️ Database	MongoDB, MySQL, PostgreSQL
+☁️ Cloud	AWS
+🐳 DevOps	Docker, Linux, Git
+☕ Programming	Java, JavaScript, Python
+🔌 APIs	REST API, GraphQL, Postman
 📌 Featured Projects
 🛒 E-Commerce Application
 
