@@ -215,20 +215,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=0:00C6FF,50:0072FF,100:7F00FF" width="100%">
 
-## 📌 Featured Projects
-
-### 🛒 E-Commerce Application
-Full-stack e-commerce application with authentication, product management, APIs and database integration.
-**Tech:** React • Node.js • Express.js • MongoDB
-
-### 📰 News Application
-Dynamic news application consuming APIs and displaying news by category.
-**Tech:** React • JavaScript • REST API
-
-### 🌦️ Weather Application
-Weather application retrieving real-time weather information through an external API.
-**Tech:** React • JavaScript • Weather API
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=0:00C6FF,50:0072FF,100:7F00FF" width="100%">
 <h1> many project done </h1>
 
