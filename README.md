@@ -44,7 +44,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=0:00C6FF,50:0072FF,100:7F00FF" width="100%">
 
-## 🚀 Focus
+## 🚀Skill
 
 <div align="center">
 
@@ -230,6 +230,7 @@ Weather application retrieving real-time weather information through an external
 **Tech:** React • JavaScript • Weather API
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=0:00C6FF,50:0072FF,100:7F00FF" width="100%">
+<h1> many project done </h1>
 
 ## 🔐 Backend & API Development
 
