@@ -13,15 +13,15 @@
 <br><br>
 
 <a href="https://github.com/dipeshkumar799">
-<img src="https://img.shields.io/github/followers/dipeshkumar799?label=Followers&style=for-the-badge&logo=github">
+<img src="https://img.shields.io/github/followers/dipeshkumar799?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
 </a>
 
 <a href="https://github.com/dipeshkumar799?tab=repositories">
-<img src="https://img.shields.io/github/stars/dipeshkumar799?label=Stars&style=for-the-badge&logo=github">
+<img src="https://img.shields.io/github/stars/dipeshkumar799?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars">
 </a>
 
 <a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
 </div>
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python,react,nodejs,express,mongodb,mysql,aws,git,github&perline=11">
+<img src="https://skillicons.dev/icons?i=java,javascript,python,react,nodejs,express,mongodb,mysql,aws,git,github&perline=11" alt="Current Technologies">
 
 </div>
 
@@ -55,15 +55,15 @@
 <div align="center">
 
 <a href="https://www.credly.com/badges/1eff50d7-15fa-4494-a8cc-81f72325c662">
-<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
+<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Academy Cloud Foundations">
 </a>
 
 <a href="https://credsverse.com/credentials/1131fd0f-87d6-4889-ac8e-61c0f8123383">
-<img src="https://img.shields.io/badge/Metadome-Emerging%20Tech%20Hackathon-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Metadome-Emerging%20Tech%20Hackathon-orange?style=for-the-badge" alt="Metadome Emerging Tech Hackathon">
 </a>
 
 <a href="https://badges.parchment.com/public/assertions/HhAX5J4fT1y3MheFZQxr7Q">
-<img src="https://img.shields.io/badge/Verified-Digital%20Credential-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Verified-Digital%20Credential-success?style=for-the-badge" alt="Verified Digital Credential">
 </a>
 
 </div>
@@ -72,23 +72,29 @@
 
 ### ☁️ AWS Academy Graduate – Cloud Foundations
 
-<a href="https://www.credly.com/badges/1eff50d7-15fa-4494-a8cc-81f72325c662">
-🔗 View AWS Credential
-</a>
+[🔗 View AWS Credential](https://www.credly.com/badges/1eff50d7-15fa-4494-a8cc-81f72325c662)
 
 ### 🏆 Metadome Emerging Tech Hackathon
 
 Certificate of Participation
 
-<a href="https://credsverse.com/credentials/1131fd0f-87d6-4889-ac8e-61c0f8123383">
-🔗 View Credential
-</a>
+[🔗 View Credential](https://credsverse.com/credentials/1131fd0f-87d6-4889-ac8e-61c0f8123383)
 
 ### 🎓 Digital Credential
 
-<a href="https://badges.parchment.com/public/assertions/HhAX5J4fT1y3MheFZQxr7Q">
-🔗 View Verified Credential
+[🔗 View Verified Credential](https://badges.parchment.com/public/assertions/HhAX5J4fT1y3MheFZQxr7Q)
+
+---
+
+# 🏅 Holopin Badges
+
+<div align="center">
+
+<a href="https://holopin.io/@dipeshkumar799">
+<img src="https://holopin.io/api/user/board?user=dipeshkumar799" width="100%" alt="Dipesh Kumar Yadav Holopin Badges">
 </a>
+
+</div>
 
 ---
 
@@ -98,7 +104,7 @@ Certificate of Participation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c,typescript&perline=5">
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c,typescript&perline=5" alt="Programming Languages">
 
 </div>
 
@@ -108,7 +114,7 @@ Certificate of Participation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap&perline=6">
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap&perline=6" alt="Frontend Technologies">
 
 </div>
 
@@ -118,7 +124,7 @@ Certificate of Participation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&perline=3">
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&perline=3" alt="Backend Technologies">
 
 </div>
 
@@ -128,7 +134,7 @@ Certificate of Participation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3" alt="Databases">
 
 </div>
 
@@ -138,7 +144,7 @@ Certificate of Participation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws">
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS">
 
 </div>
 
@@ -148,7 +154,7 @@ Certificate of Participation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,figma,vscode,npm&perline=7">
+<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,figma,vscode,npm&perline=7" alt="Development Tools">
 
 <br><br>
 
@@ -212,7 +218,7 @@ Weather application retrieving real-time weather information through an external
 
 # 📚 Currently Learning
 
-### ☕ Java & DSA
+## ☕ Java & DSA
 
 ```text
 Java & DSA
@@ -259,19 +265,20 @@ AWS Cloud
  Participate in GSoC
  Get a Software Development Internship
 📊 GitHub Statistics
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=dipeshkumar799&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshkumar799&layout=compact&theme=tokyonight&hide_border=true"> </div>
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=dipeshkumar799&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshkumar799&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"> </div>
 🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=dipeshkumar799&theme=tokyonight&hide_border=true"> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=dipeshkumar799&theme=tokyonight&hide_border=true" alt="GitHub Streak"> </div>
 🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dipeshkumar799&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dipeshkumar799&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"> </div>
 📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshkumar799&theme=tokyo-night&hide_border=true"> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshkumar799&theme=tokyo-night&hide_border=true" alt="Contribution Graph"> </div>
 🤝 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/"> <img src="https://img.shields.io/badge/LinkedIn-Dipesh%20Kumar%20Yadav-0077B5?style=for-the-badge&logo=linkedin"> </a> <a href="https://x.com/dipeshyv"> <img src="https://img.shields.io/badge/X-@dipeshyv-000000?style=for-the-badge&logo=x"> </a> <a href="mailto:yadavdipesh0011@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"> </a> <a href="https://www.youtube.com/@dipeshyadav1730"> <img src="https://img.shields.io/badge/YouTube-Dipesh%20Yadav-FF0000?style=for-the-badge&logo=youtube"> </a> <a href="https://www.instagram.com/yv.799/"> <img src="https://img.shields.io/badge/Instagram-@yv.799-E4405F?style=for-the-badge&logo=instagram"> </a> </div> <br> <div align="center">
+<div align="center"> <a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/"> <img src="https://img.shields.io/badge/LinkedIn-Dipesh%20Kumar%20Yadav-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"> </a> <a href="https://x.com/dipeshyv"> <img src="https://img.shields.io/badge/X-@dipeshyv-000000?style=for-the-badge&logo=x" alt="X"> </a> <a href="mailto:yadavdipesh0011@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Gmail"> </a> <a href="https://www.youtube.com/@dipeshyadav1730"> <img src="https://img.shields.io/badge/YouTube-Dipesh%20Yadav-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"> </a> <a href="https://www.instagram.com/yv.799/"> <img src="https://img.shields.io/badge/Instagram-@yv.799-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"> </a> </div> <br> <div align="center">
+
 💡 Code • Learn • Build • Repeat 🚀
 
 ⭐ If you like my work, consider giving my repositories a star!
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0072FF,100:00C6FF&height=120&section=footer"> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0072FF,100:00C6FF&height=120&section=footer" width="100%" alt="Footer"> </div> ```
