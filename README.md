@@ -1,10 +1,15 @@
 <div align="center">
 
-<h1>👋 Hi, I'm DIPESH KUMAR YADAV</h1>
+<img src="https://raw.githubusercontent.com/DenverCoder1/profile-readme-generator/main/src/images/banner.png" width="100%" />
 
-<h3>💻 Software Developer | Full Stack Developer | Backend Developer</h3>
+<br>
+
+👋 Hi, I'm DIPESH KUMAR YADAV
+💻 Software Developer | Full Stack Developer | Backend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Developer;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;AWS+Cloud+Enthusiast;DSA+%26+Problem+Solving;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 <br>
 
