@@ -1,22 +1,26 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/DenverCoder1/profile-readme-generator/main/src/images/banner.png" width="100%" alt="Developer Animation Banner">
+
+<br><br>
+
 <h1>👋 Hi, I'm DIPESH KUMAR YADAV</h1>
 
 <h3>💻 Software Developer | Full Stack Developer | Backend Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Developer;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;AWS+Cloud+Enthusiast;DSA+%26+Problem+Solving;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Developer;Java+%7C+JavaScript+%7C+Python;React+%7C+Node.js+%7C+MongoDB;AWS+Cloud+Enthusiast;DSA+%26+Problem+Solving;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=dipeshkumar799&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=dipeshkumar799&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 
 <br><br>
 
-<a href="https://github.com/dipeshkumar799"> <img src="https://img.shields.io/github/followers/dipeshkumar799?label=Followers&style=for-the-badge&logo=github" /> </a>
+<a href="https://github.com/dipeshkumar799"> <img src="https://img.shields.io/github/followers/dipeshkumar799?label=Followers&style=for-the-badge&logo=github"> </a>
 
-<a href="https://github.com/dipeshkumar799?tab=repositories"> <img src="https://img.shields.io/github/stars/dipeshkumar799?label=Stars&style=for-the-badge&logo=github" /> </a>
+<a href="https://github.com/dipeshkumar799?tab=repositories"> <img src="https://img.shields.io/github/stars/dipeshkumar799?label=Stars&style=for-the-badge&logo=github"> </a>
 
-<a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a>
+<a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a>
 
 </div>
 
@@ -29,7 +33,6 @@
 🤝 Open to collaborations, hackathons and opportunities
 🌱 Always learning and improving my development skills
 🚀 Current Focus
-
 🔥 Full Stack Development
 ☕ Java & Data Structures
 ⚛️ React.js
@@ -39,16 +42,15 @@
 ☁️ AWS Cloud
 🔧 Git & GitHub
 🔌 REST APIs
-
 🏆 Certifications & Achievements
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/1eff50d7-15fa-4494-a8cc-81f72325c662"> <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /> </a>
+<a href="https://www.credly.com/badges/1eff50d7-15fa-4494-a8cc-81f72325c662"> <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"> </a>
 
-<a href="https://credsverse.com/credentials/1131fd0f-87d6-4889-ac8e-61c0f8123383"> <img src="https://img.shields.io/badge/Metadome-Emerging%20Tech%20Hackathon-orange?style=for-the-badge" /> </a>
+<a href="https://credsverse.com/credentials/1131fd0f-87d6-4889-ac8e-61c0f8123383"> <img src="https://img.shields.io/badge/Metadome-Emerging%20Tech%20Hackathon-orange?style=for-the-badge"> </a>
 
-<a href="https://badges.parchment.com/public/assertions/HhAX5J4fT1y3MheFZQxr7Q"> <img src="https://img.shields.io/badge/Verified-Digital%20Credential-success?style=for-the-badge" /> </a>
+<a href="https://badges.parchment.com/public/assertions/HhAX5J4fT1y3MheFZQxr7Q"> <img src="https://img.shields.io/badge/Verified-Digital%20Credential-success?style=for-the-badge"> </a>
 
 </div>
 
@@ -69,27 +71,51 @@ Certificate of Participation
 🛠️ Tech Stack
 💻 Programming Languages
 
-<p> <img src="https://skillicons.dev/icons?i=java,javascript,python,c,typescript" /> </p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c,typescript">
+
+</div>
 
 🌐 Frontend
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap" /> </p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap">
+
+</div>
 
 ⚙️ Backend
 
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" /> </p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql">
+
+</div>
 
 🗄️ Databases
 
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /> </p>
+<div align="center">
 
-☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql">
 
-<p> <img src="https://skillicons.dev/icons?i=aws,docker,linux" /> </p>
+</div>
+
+☁️ Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws">
+
+</div>
 
 🔧 Tools
 
-<p> <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,figma,vscode,npm" /> </p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,figma,vscode,npm">
+
+</div>
 
 💼 What I Can Build
 Area	Technologies
@@ -97,7 +123,6 @@ Area	Technologies
 ⚙️ Backend	Node.js, Express.js, GraphQL
 🗄️ Database	MongoDB, MySQL, PostgreSQL
 ☁️ Cloud	AWS
-🐳 DevOps	Docker, Linux, Git
 ☕ Programming	Java, JavaScript, Python
 🔌 APIs	REST API, GraphQL, Postman
 📌 Featured Projects
@@ -129,67 +154,46 @@ Tech: React • JavaScript • Weather API
 🚀 Postman
 📚 Currently Learning
 ☕ Java & DSA
-Object-Oriented Programming
-Arrays
-Linear Search
-Binary Search
-Sorting
-Data Structures
-Problem Solving
+ ├── Object-Oriented Programming
+ ├── Arrays
+ ├── Linear Search
+ ├── Binary Search
+ ├── Sorting
+ ├── Data Structures
+ └── Problem Solving
+
 ⚙️ Backend
-Node.js
-Express.js
-REST APIs
-GraphQL
-Authentication
-MongoDB
+ ├── Node.js
+ ├── Express.js
+ ├── REST APIs
+ ├── GraphQL
+ ├── Authentication
+ └── MongoDB
+
 ☁️ AWS
-Cloud Fundamentals
-AWS Services
-Cloud Architecture Basics
-Deployment
-DevOps Fundamentals
+ ├── Cloud Fundamentals
+ ├── AWS Services
+ ├── Cloud Architecture Basics
+ └── Deployment
 🎯 2026 Goals
-
-Learn Java fundamentals
-
-Practice Arrays & Linear Search
-
-Learn React
-
-Learn Node.js & Express.js
-
-Learn MongoDB
-
-Learn REST APIs
-
-Earn AWS Cloud Foundations Badge
-
-Master Data Structures & Algorithms
-
-Master Binary Search
-
-Build production-ready full-stack applications
-
-Build AWS Cloud Projects
-
-Learn Docker
-
-Learn CI/CD
-
-Contribute to Open Source
-
-Participate in GSoC
-
-Get a Software Development Internship
-
+☕ Learn Java fundamentals
+🧠 Master Data Structures & Algorithms
+🔎 Master Linear Search & Binary Search
+⚛️ Improve React.js
+🟢 Improve Node.js & Express.js
+🍃 Improve MongoDB
+🔌 Build REST APIs
+☁️ Build AWS Cloud Projects
+🌍 Contribute to Open Source
+🏆 Participate in GSoC
+💼 Get a Software Development Internship
 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dipeshkumar799&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dipeshkumar799&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshkumar799&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshkumar799&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
 
@@ -197,7 +201,7 @@ Get a Software Development Internship
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dipeshkumar799&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=dipeshkumar799&theme=tokyonight&hide_border=true">
 
 </div>
 
@@ -205,7 +209,7 @@ Get a Software Development Internship
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dipeshkumar799&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=dipeshkumar799&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
 
 </div>
 
@@ -213,15 +217,7 @@ Get a Software Development Internship
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshkumar799&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dipeshkumar799/dipeshkumar799/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshkumar799&theme=tokyo-night&hide_border=true">
 
 </div>
 
@@ -229,22 +225,28 @@ Get a Software Development Internship
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/"> <img src="https://img.shields.io/badge/LinkedIn-Dipesh%20Kumar%20Yadav-blue?style=for-the-badge&logo=linkedin" /> </a>
+<a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/"> <img src="https://img.shields.io/badge/LinkedIn-Dipesh%20Kumar%20Yadav-blue?style=for-the-badge&logo=linkedin"> </a>
 
-<a href="https://x.com/dipeshyv"> <img src="https://img.shields.io/badge/X-@dipeshyv-black?style=for-the-badge&logo=x" /> </a>
+<a href="https://x.com/dipeshyv"> <img src="https://img.shields.io/badge/X-@dipeshyv-black?style=for-the-badge&logo=x"> </a>
 
-<a href="mailto:yadavdipesh0011@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /> </a>
+<a href="mailto:yadavdipesh0011@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"> </a>
 
-<a href="https://www.youtube.com/@dipeshyadav1730"> <img src="https://img.shields.io/badge/YouTube-Dipesh%20Yadav-red?style=for-the-badge&logo=youtube" /> </a>
+<a href="https://www.youtube.com/@dipeshyadav1730"> <img src="https://img.shields.io/badge/YouTube-Dipesh%20Yadav-red?style=for-the-badge&logo=youtube"> </a>
 
-<a href="https://www.instagram.com/yv.799/"> <img src="https://img.shields.io/badge/Instagram-@yv.799-purple?style=for-the-badge&logo=instagram" /> </a>
+<a href="https://www.instagram.com/yv.799/"> <img src="https://img.shields.io/badge/Instagram-@yv.799-purple?style=for-the-badge&logo=instagram"> </a>
 
 </div>
+
+<br>
 
 <div align="center">
 
 💡 Code • Learn • Build • Repeat 🚀
 
 ⭐ If you like my work, consider giving my repositories a star!
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer">
 
 </div>
