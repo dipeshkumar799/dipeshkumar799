@@ -28,7 +28,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering
 - 💻 Passionate about Full Stack & Backend Development
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
 <div align="center">
 
@@ -68,35 +68,33 @@
 
 </div>
 
----
+<br>
 
-## ☁️ AWS Academy Graduate
-
-**AWS Academy – Cloud Foundations**
+### ☁️ AWS Academy Graduate – Cloud Foundations
 
 <a href="https://www.credly.com/badges/1eff50d7-15fa-4494-a8cc-81f72325c662">
-View AWS Credential →
+🔗 View AWS Credential
 </a>
 
-## 🏆 Hackathon Achievement
+### 🏆 Metadome Emerging Tech Hackathon
 
-**Metadome Emerging Tech Hackathon**
+Certificate of Participation
 
 <a href="https://credsverse.com/credentials/1131fd0f-87d6-4889-ac8e-61c0f8123383">
-View Credential →
+🔗 View Credential
 </a>
 
-## 🎓 Digital Credential
+### 🎓 Digital Credential
 
 <a href="https://badges.parchment.com/public/assertions/HhAX5J4fT1y3MheFZQxr7Q">
-View Verified Credential →
+🔗 View Verified Credential
 </a>
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <div align="center">
 
@@ -104,7 +102,9 @@ View Verified Credential →
 
 </div>
 
-### 🌐 Frontend
+---
+
+## 🌐 Frontend
 
 <div align="center">
 
@@ -112,7 +112,9 @@ View Verified Credential →
 
 </div>
 
-### ⚙️ Backend
+---
+
+## ⚙️ Backend
 
 <div align="center">
 
@@ -120,7 +122,9 @@ View Verified Credential →
 
 </div>
 
-### 🗄️ Databases
+---
+
+## 🗄️ Databases
 
 <div align="center">
 
@@ -128,7 +132,9 @@ View Verified Credential →
 
 </div>
 
-### ☁️ Cloud
+---
+
+## ☁️ Cloud
 
 <div align="center">
 
@@ -136,11 +142,17 @@ View Verified Credential →
 
 </div>
 
-### 🔧 Tools
+---
+
+## 🔧 Tools
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,figma,vscode,npm&perline=7">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Thunder%20Client-API%20Testing-7B61FF?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client">
 
 </div>
 
@@ -155,31 +167,37 @@ View Verified Credential →
 | 🗄️ Database | MongoDB, MySQL, PostgreSQL |
 | ☁️ Cloud | AWS |
 | ☕ Programming | Java, JavaScript, Python |
-| 🔌 APIs | REST API, GraphQL, Postman |
+| 🔌 APIs & Testing | REST API, GraphQL, Postman, Thunder Client |
 
 ---
 
 # 📌 Featured Projects
 
-### 🛒 E-Commerce Application
+## 🛒 E-Commerce Application
 
 Full-stack e-commerce application with authentication, product management, APIs and database integration.
 
 **Tech:** React • Node.js • Express.js • MongoDB
 
-### 📰 News Application
+---
+
+## 📰 News Application
 
 Dynamic news application consuming APIs and displaying news by category.
 
 **Tech:** React • JavaScript • REST API
 
-### 🌦️ Weather Application
+---
+
+## 🌦️ Weather Application
 
 Weather application retrieving real-time weather information through an external API.
 
 **Tech:** React • JavaScript • Weather API
 
-### 🔐 Backend & Authentication
+---
+
+# 🔐 Backend & API Development
 
 - 🔑 JWT Authentication
 - 🔄 Access & Refresh Tokens
@@ -188,106 +206,72 @@ Weather application retrieving real-time weather information through an external
 - 📁 Multer
 - 🔌 REST APIs
 - 🚀 Postman
+- ⚡ Thunder Client
 
 ---
 
 # 📚 Currently Learning
 
+### ☕ Java & DSA
+
 ```text
-☕ Java & DSA
- ├── Object-Oriented Programming
- ├── Arrays
- ├── Linear Search
- ├── Binary Search
- ├── Sorting
- ├── Data Structures
- └── Problem Solving
-
+Java & DSA
+│
+├── Object-Oriented Programming
+├── Arrays
+├── Linear Search
+├── Binary Search
+├── Sorting
+├── Data Structures
+└── Problem Solving
 ⚙️ Backend
- ├── Node.js
- ├── Express.js
- ├── REST APIs
- ├── GraphQL
- ├── Authentication
- └── MongoDB
-
+Backend Development
+│
+├── Node.js
+├── Express.js
+├── REST APIs
+├── GraphQL
+├── Authentication
+└── MongoDB
 ☁️ AWS
- ├── Cloud Fundamentals
- ├── AWS Services
- ├── Cloud Architecture Basics
- └── Deployment
+AWS Cloud
+│
+├── Cloud Fundamentals
+├── AWS Services
+├── Cloud Architecture Basics
+└── Deployment
 🎯 2026 Goals
-☕ Learn Java fundamentals
-🧠 Master Data Structures & Algorithms
-🔎 Master Linear Search & Binary Search
-⚛️ Improve React.js
-🟢 Improve Node.js & Express.js
-🍃 Improve MongoDB
-🔌 Build REST APIs
-☁️ Build AWS Cloud Projects
-🌍 Contribute to Open Source
-🏆 Participate in GSoC
-💼 Get a Software Development Internship
+ Learn Java fundamentals
+ Practice Arrays & Linear Search
+ Learn React
+ Learn Node.js & Express.js
+ Learn MongoDB
+ Learn REST APIs
+ Earn AWS Cloud Foundations Badge
+ Master Data Structures & Algorithms
+ Master Binary Search
+ Improve React.js
+ Improve Node.js & Express.js
+ Improve MongoDB
+ Build production-ready full-stack applications
+ Build AWS Cloud Projects
+ Contribute to Open Source
+ Participate in GSoC
+ Get a Software Development Internship
 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dipeshkumar799&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshkumar799&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
-
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=dipeshkumar799&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshkumar799&layout=compact&theme=tokyonight&hide_border=true"> </div>
 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dipeshkumar799&theme=tokyonight&hide_border=true">
-
-</div>
-
+<div align="center"> <img src="https://streak-stats.demolab.com?user=dipeshkumar799&theme=tokyonight&hide_border=true"> </div>
 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dipeshkumar799&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
-
-</div>
-
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dipeshkumar799&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"> </div>
 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshkumar799&theme=tokyo-night&hide_border=true">
-
-</div>
-
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshkumar799&theme=tokyo-night&hide_border=true"> </div>
 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/"> <img src="https://img.shields.io/badge/LinkedIn-Dipesh%20Kumar%20Yadav-blue?style=for-the-badge&logo=linkedin"> </a>
-
-<a href="https://x.com/dipeshyv"> <img src="https://img.shields.io/badge/X-@dipeshyv-black?style=for-the-badge&logo=x"> </a>
-
-<a href="mailto:yadavdipesh0011@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"> </a>
-
-<a href="https://www.youtube.com/@dipeshyadav1730"> <img src="https://img.shields.io/badge/YouTube-Dipesh%20Yadav-red?style=for-the-badge&logo=youtube"> </a>
-
-<a href="https://www.instagram.com/yv.799/"> <img src="https://img.shields.io/badge/Instagram-@yv.799-purple?style=for-the-badge&logo=instagram"> </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
+<div align="center"> <a href="https://www.linkedin.com/in/dipesh-kumar-yadav-165819307/"> <img src="https://img.shields.io/badge/LinkedIn-Dipesh%20Kumar%20Yadav-0077B5?style=for-the-badge&logo=linkedin"> </a> <a href="https://x.com/dipeshyv"> <img src="https://img.shields.io/badge/X-@dipeshyv-000000?style=for-the-badge&logo=x"> </a> <a href="mailto:yadavdipesh0011@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"> </a> <a href="https://www.youtube.com/@dipeshyadav1730"> <img src="https://img.shields.io/badge/YouTube-Dipesh%20Yadav-FF0000?style=for-the-badge&logo=youtube"> </a> <a href="https://www.instagram.com/yv.799/"> <img src="https://img.shields.io/badge/Instagram-@yv.799-E4405F?style=for-the-badge&logo=instagram"> </a> </div> <br> <div align="center">
 💡 Code • Learn • Build • Repeat 🚀
 
 ⭐ If you like my work, consider giving my repositories a star!
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer">
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0072FF,100:00C6FF&height=120&section=footer"> </div> ```
